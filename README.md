@@ -7,7 +7,7 @@ Star or something idk...
 - Xtra Terraria (Terraria mod that adds general content for needed areas of the vanilla game) || No updates planned
 - BlockChain Currency (Minecraft mod meant to be a solution to server economies) || No updates planned
 - CardCraft (Minecraft mod about collecting and trading cards) || No updates planned
-- XXXX (Minecraft mod that adds XXXX) || In development
+- Paxels for Dummies (Minecraft mod that adds Paxels, a combination of Axes, Pickaxes, and Shovels) || Active Development
 
 ## What you can expect
 I mainly code whatever I feel like is. Right now, that is mods for Minecraft<br>
