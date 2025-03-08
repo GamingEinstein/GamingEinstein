@@ -2,19 +2,24 @@
 Epic Gamer and YouTuber...<br>
 Star or something idk...
 
+_All of my public links can be found [here](https://linktr.ee/GamingEinstein)_
+
 ## Public projects
-- HandH Mod (Terraria mod that adds general content) || Discontinued
-- Xtra Terraria (Terraria mod that adds general content for needed areas of the vanilla game) || No updates planned
-- BlockChain Currency (Minecraft mod meant to be a solution to server economies) || No updates planned
-- CardCraft (Minecraft mod about collecting and trading cards) || No updates planned
-- Paxels for Dummies (Minecraft mod that adds Paxels, a combination of Axes, Pickaxes, and Shovels) || Active Development
+- [HandH Mod](https://github.com/GamingEinstein/HandH-Mod): Terraria mod that adds general content | _Discontinued_
+- [Xtra Terraria](https://github.com/GamingEinstein/XtraTerraria): Terraria mod that adds a variety of vanilla plus content | _No updates planned_
+- [BlockChain Currency](https://github.com/GamingEinstein/BlockChainCurrency): Minecraft mod meant to be a solution to server economies | _No updates planned_
+- [CardCraft](https://github.com/GamingEinstein/CardCraft): Minecraft mod about collecting and trading cards | _No updates planned_
+- [Paxels for Dummies](https://github.com/GamingEinstein/Paxels-for-Dummies): Minecraft mod that adds Paxels, a combination of Axes, Pickaxes, and Shovels | _Active Development_
+- [Sensible Smithing Templates](https://github.com/GamingEinstein/Sensible-Smithing-Templates): Minecraft mod/data pack that changes Smithing Templates recipes to be less Diamond intensive | _Active Development_
 
 ## What you can expect
-I mainly code whatever I feel like is. Right now, that is mods for Minecraft<br>
+I mainly code whatever I feel like is. Right now, that is mods for Minecraft. Hoping to branch out once I have more experience and knowledge
+
 Some notes:
-- I'm a novice at programming in general, so my code is probably bad. Don't worry about it lmao
-- I code as a hobby and will probably abandon projects I don't care about anymore
+- I'm pretty much a novice when it comes to programming, so my code is probably bad. Trying to improve, though...
+- I code as a hobby and will probably abandon projects I don't care about anymore or don't have the motivation to keep updating
 - Projects marked as no updates planned are on the backburner and probably won't get any updates until I feel motivated to update them
 - Something something final thoughts
-<br>
-Thanks, and have fun
+
+Thanks, and have fun...
+- GamingEinstein, Certified Nerd
